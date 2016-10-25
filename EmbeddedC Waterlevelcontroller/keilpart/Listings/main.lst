@@ -1,0 +1,121 @@
+C51 COMPILER V9.54   MAIN                                                                  09/25/2015 14:29:04 PAGE 1   
+
+
+C51 COMPILER V9.54, COMPILATION OF MODULE MAIN
+OBJECT MODULE PLACED IN .\Objects\main.obj
+COMPILER INVOKED BY: C:\Keil_v5\C51\BIN\C51.EXE main.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\main
+                    -.lst) TABS(2) OBJECT(.\Objects\main.obj)
+
+line level    source
+
+   1          #include<reg51.h>
+   2          #include<stdio.h>
+   3          sbit rs=P1^0;   
+   4          sbit rw=P1^1;   
+   5          sbit e=P1^2;    
+   6          sbit quat=P3^0; // Quad water level 
+   7          sbit half=P3^1; // half level of tank
+   8          sbit quat_3=P3^2; // three -fourth level of tank
+   9          sbit full=P3^3;   //full level of tank
+  10          sbit motor=P3^4;  //pin connected to motor
+  11          
+  12          void delay(int k) //delay function
+  13          {
+  14   1      int i,j;
+  15   1      for(i=0;i<k;i++)
+  16   1        for(j=0;j<1275;j++);
+  17   1      }
+  18          
+  19          void write(int j) 
+  20          {
+  21   1      rs=1;  //selecting rs pin to data mode
+  22   1      rw=0;  //selecting rw pin to write mode
+  23   1      P2=j;  //putting value on the pins
+  24   1      e=1;  //high pulse 
+  25   1      delay(1);
+  26   1      e=0;  // low pulse
+  27   1      return;
+  28   1      }
+  29          
+  30          void cmd(int j)  //command function
+  31          {
+  32   1      P2=j;  //put the data on pins
+  33   1      rs=0;  //selecting rw pin to command mode
+  34   1      rw=0;  //selecting to write
+  35   1      e=1;  
+  36   1      delay(1);
+  37   1      e=0;
+  38   1      return;
+  39   1      }
+  40          
+  41          void put(char *a) // function to display string on LCD'
+  42          {
+  43   1      unsigned int p=0;
+  44   1      for(;a[p]!=0;p++)
+  45   1      write(a[p]);
+  46   1      }
+  47          
+  48          void lcd_init(void) // function to initialise the LCD
+  49          {
+  50   1      cmd(0x38); 
+  51   1      delay(1);
+  52   1      cmd(0x0c); //LCD turning on cmd
+  53   1      delay(1);     
+  54   1      cmd(0x01); //clear lcd cmd 
+C51 COMPILER V9.54   MAIN                                                                  09/25/2015 14:29:04 PAGE 2   
+
+  55   1      cmd(0x80); // starting point of LCD
+  56   1      }
+  57          
+  58          void main()
+  59          {
+  60   1      lcd_init();   //LCD intialization
+  61   1      quat=half=quat_3=full=1; //configuring as input pins
+  62   1      quat=half=quat_3=full=0; //lowering input pins
+  63   1      motor = 0;
+  64   1      while(1)
+  65   1      {
+  66   2        if(quat==0&&half==0&&quat_3==0&&full==0)   //when tank is empty
+  67   2        {
+  68   3         cmd(0x80);       // to move the cursor to starting point of LCD
+  69   3         put("EMPTY   ");      // dispalys empty on lcd 
+  70   3          motor=1;              // start motor
+  71   3        }
+  72   2        else if(quat==1&&half==0&&quat_3==0&&full==0) // when tank is quater
+  73   2        {
+  74   3         cmd(0x80); 
+  75   3         put("QUATER   ");     // dispalys Quarter on lcd
+  76   3        }
+  77   2        else if(quat==1&&half==1&&quat_3==0&&full==0) // when tank is half
+  78   2        {
+  79   3          cmd(0x80); 
+  80   3         put("HALF    ");      // dispalys half on lcd
+  81   3        }
+  82   2        else if(quat==1&&half==1&&quat_3==1&&full==0) // when tank is three-fourth
+  83   2        {
+  84   3         cmd(0x80); 
+  85   3         put("3/4 FULL   ");     // dispalys 3/4 full on lcd
+  86   3        }
+  87   2        else if(quat==1&&half==1&&quat_3==1&&full==1) // when tank is full
+  88   2        {
+  89   3         cmd(0x80); 
+  90   3         put("FULL    ");    // dispalys full on lcd
+  91   3         motor=0;            // to stop the motor 
+  92   3        }
+  93   2       
+  94   2      }
+  95   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =    296    ----
+   CONSTANT SIZE    =     49    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =   ----       5
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)

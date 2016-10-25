@@ -1,0 +1,3 @@
+".\Objects\pass.obj" 
+TO ".\Objects\pass" 
+PRINT(".\Listings\pass.m51")
