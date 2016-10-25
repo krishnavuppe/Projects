@@ -11,7 +11,7 @@ typedef struct
 	int buffer[32];
 	int head;
 	int tail;
-    int maxLen;
+        int maxLen;
 }ringbuff;
 
 
@@ -52,7 +52,7 @@ ringbuff cb;
 
 cb.head = 0;
 cb.tail = 0;
-cb.maxLen = 63;
+cb.maxLen = 31;
 
 shmID = shmget(1009, sizeof(ringbuff) , 0666 | IPC_CREAT);
 
@@ -61,7 +61,7 @@ shm = shmat(shmID, NULL, 0);
 memcpy(&shm[0], &cb, sizeof(ringbuff));
 
 
-for(i=0;i<61;i++)
+for(i=0;i<30;i++)
 {
 txdata += 4;
 if (BufPush(&shm[0], txdata)) {printf("Out of space in CB");}
