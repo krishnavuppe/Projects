@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "secureip" -o "F:/Projects/VHDL/TripleDES/tb_isim_beh.exe" -prj "F:/Projects/VHDL/TripleDES/tb_beh.prj" "work.tb" 
