@@ -1,0 +1,65 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o F:/Projects/VHDL/TripleDES/tb_isim_beh.exe -prj F:/Projects/VHDL/TripleDES/tb_beh.prj work.tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/s8_box.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/s7_box.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/s6_box.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/s5_box.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/s4_box.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/s3_box.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/s2_box.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/s1_box.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/s_box.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/shifting.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/p_box.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/pc2.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/pc1.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/e_expansion_function.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/add_left.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/add_key.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/swaping.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/key_schedule.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/ip.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/inv_ip.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/block_top.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/des_top.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/TripleDES.vhd" into library work
+Parsing VHDL file "F:/Projects/VHDL/TripleDES/tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity ip [ip_default]
+Compiling architecture behavioral of entity pc1 [pc1_default]
+Compiling architecture behavioral of entity shifting [shifting_default]
+Compiling architecture behavioral of entity pc2 [pc2_default]
+Compiling architecture behavioral of entity key_schedule [key_schedule_default]
+Compiling architecture behavioral of entity e_expansion_function [e_expansion_function_default]
+Compiling architecture behavioral of entity add_key [add_key_default]
+Compiling architecture behavioral of entity s1_box [s1_box_default]
+Compiling architecture behavioral of entity s2_box [s2_box_default]
+Compiling architecture behavioral of entity s3_box [s3_box_default]
+Compiling architecture behavioral of entity s4_box [s4_box_default]
+Compiling architecture behavioral of entity s5_box [s5_box_default]
+Compiling architecture behavioral of entity s6_box [s6_box_default]
+Compiling architecture behavioral of entity s7_box [s7_box_default]
+Compiling architecture behavioral of entity s8_box [s8_box_default]
+Compiling architecture behavioral of entity s_box [s_box_default]
+Compiling architecture behavioral of entity p_box [p_box_default]
+Compiling architecture behavioral of entity add_left [add_left_default]
+Compiling architecture behavioral of entity block_top [block_top_default]
+Compiling architecture behavioral of entity swaping [swaping_default]
+Compiling architecture behavioral of entity inv_ip [inv_ip_default]
+Compiling architecture behavioral of entity des_top [des_top_default]
+Compiling architecture behavioral of entity TripleDES [tripledes_default]
+Compiling architecture behavior of entity tb
+Time Resolution for simulation is 1ps.
+Waiting for 12 sub-compilation(s) to finish...
+Compiled 51 VHDL Units
+Built simulation executable F:/Projects/VHDL/TripleDES/tb_isim_beh.exe
+Fuse Memory Usage: 34004 KB
+Fuse CPU Usage: 2593 ms
