@@ -5,9 +5,11 @@ Data sheet: https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-
 A simple I2C interface is provided:
 
 // I2C burst read (reads from 7 bit I2C device 'address' 'size' bytes starting with register 'reg' into data)
+
 i2c_read(uint8_t address, uint8_t reg, uint8_t *data, size_t size);
 
 // I2C burst write (writes to 7 but I2C device 'address' 'size' bytes, starting with register 'reg')
+
 i2c_write(uint8_t address, uint8_t reg, uint8_t *data, size_t size);
 
 *Write two interface functions that allow to (1) read temperature in degrees celsius (C) and (2) pressure in hecto-pascal (hPa) as a double.
