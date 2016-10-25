@@ -12,32 +12,32 @@ typedef struct
 	int head;
 	int tail;
     int maxLen;
-}circBuf_t;
+}ringbuff;
 
 
-int circBufPush(circBuf_t *c, int data)
+int BufPush(ringbuff *p, int data)
 {
-	int next = c->head + 1;
-	if (next >= c->maxLen){next = 0;}
+	int next = p->head + 1;
+	if (next >= p->maxLen){next = 0;}
 
-	if (next == c->tail){return -1;}
+	if (next == p->tail){return -1;}
 
-	c->buffer[c->head] = data;
-	c->head = next;
+	p->buffer[p->head] = data;
+	p->head = next;
 	return 0;
 }
 
-int circBufPop(circBuf_t *c, int *data)
+int BufPop(ringbuff *p, int *data)
 {
-	if (c->head == c->tail){return -1;}
+	if (p->head == p->tail){return -1;}
 
-	*data = c->buffer[c->tail];
-	c->buffer[c->tail] = 0;
+	*data = p->buffer[c->tail];
+	p->buffer[p->tail] = 0;
 
-	int next = c->tail + 1;
-	if(next >= c->maxLen){next = 0;}
+	int next = p->tail + 1;
+	if(next >= p->maxLen){next = 0;}
 
-	c->tail = next;
+	p->tail = next;
 
 	return 0;
 }
@@ -47,24 +47,24 @@ int main()
 
 int shmID,i,txdata=0;
 
-circBuf_t *shm;
-circBuf_t cb;
+ringbuff *shm;
+ringbuff cb;
 
 cb.head = 0;
 cb.tail = 0;
-cb.maxLen = 31;
+cb.maxLen = 63;
 
-shmID = shmget(1009, sizeof(circBuf_t) , 0666 | IPC_CREAT);
+shmID = shmget(1009, sizeof(ringbuff) , 0666 | IPC_CREAT);
 
 shm = shmat(shmID, NULL, 0);
 
-memcpy(&shm[0], &cb, sizeof(circBuf_t));
+memcpy(&shm[0], &cb, sizeof(ringbuff));
 
 
-for(i=0;i<30;i++)
+for(i=0;i<61;i++)
 {
 txdata += 4;
-if (circBufPush(&shm[0], txdata)) {printf("Out of space in CB");}
+if (BufPush(&shm[0], txdata)) {printf("Out of space in CB");}
 printf("The data%d written to Cbuff is: %d \n",i+1, txdata);
 }
 getchar();

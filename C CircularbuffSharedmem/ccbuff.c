@@ -12,10 +12,10 @@ typedef struct
 	int head;
 	int tail;
     int maxLen;
-}circBuf_t;
+}ringbuff;
 
 
-int circBufPush(circBuf_t *c, int data)
+int BufPush(ringbuff *c, int data)
 {
 	int next = c->head + 1;
 	if (next >= c->maxLen){next = 0;}
@@ -27,7 +27,7 @@ int circBufPush(circBuf_t *c, int data)
 	return 0;
 }
 
-int circBufPop(circBuf_t *c, int *data)
+int BufPop(ringbuff *c, int *data)
 {
 	if (c->head == c->tail){return -1;}
 
@@ -47,9 +47,9 @@ int main()
 
 int shmID,i,rxdata=0;
 
-circBuf_t *shm;
+ringbuff *shm;
 
-shmID = shmget(1009, sizeof(circBuf_t) , 0666 );
+shmID = shmget(1009, sizeof(ringbuff) , 0666 );
 
 shm = shmat(shmID, NULL, 0);
 
@@ -57,7 +57,7 @@ printf("head: %d and tail: %d\n",shm[0].head,shm[0].tail);
 
 for(i=0;i<30;i++)
 {
-if (circBufPop(&shm[0], &rxdata)) {printf("CB is empty");}
+if (BufPop(&shm[0], &rxdata)) {printf("CB is empty");}
 printf("The data%d read from ringbuff is: %d \n",i+1, rxdata);
 }
 getchar();
