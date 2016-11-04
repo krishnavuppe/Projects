@@ -9,7 +9,6 @@ class QKeyEvent;
 
 class Snake;
 class Food;
-class Wall;
 
 class GameController : public QObject
 {
