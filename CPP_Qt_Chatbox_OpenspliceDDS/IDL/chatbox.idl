@@ -1,0 +1,19 @@
+/*************************************************************************
+*
+* NAME: chatbox.idl
+* FUNCTION: IDL file for creating topic of data elements used for chatbox  
+* 
+*************************************************************************/
+
+module chatbox{
+
+struct message {
+unsigned long uid;
+string uname; 
+unsigned long msgid;
+string msg;
+};
+
+#pragma keylist message uid
+ 
+};

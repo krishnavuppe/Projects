@@ -1,0 +1,2222 @@
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:08:28 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3598>
+Thread      : spliced 7f59040fa700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1482959308.201293741
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:08:28 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3598>
+Thread      : spliced 7f59040fa700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1482959308.225704982
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:08:28 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3598>
+Thread      : spliced 7f59040fa700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1482959308.226401080
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:08:28 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3598>
+Thread      : spliced 7f59040fa700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482959308.227828718
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:08:28 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3598>
+Thread      : ddsi2 7f58fc251700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482959308.274539590
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:08:28 CET 2016
+Description : The durability service can by identified by ID: 1090333740
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3598>
+Thread      : durability 7f58fc5d1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1482959308.375323587
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:08:35 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3598>
+Thread      : durability 7f58fc5d1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482959315.382852841
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:15:00 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4021>
+Thread      : spliced 7fa46409b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1482959700.448058602
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:15:00 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4021>
+Thread      : spliced 7fa46409b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1482959700.467586815
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:15:00 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4021>
+Thread      : spliced 7fa46409b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1482959700.468283514
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:15:00 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4021>
+Thread      : spliced 7fa46409b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482959700.469187478
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:15:00 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4021>
+Thread      : ddsi2 7fa45c3fc700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482959700.483509154
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:15:00 CET 2016
+Description : The durability service can by identified by ID: 494592451
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4021>
+Thread      : durability 7fa45c76b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1482959700.494716806
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:15:07 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4021>
+Thread      : durability 7fa45c76b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482959707.501740192
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:16:41 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4166>
+Thread      : spliced 7f57f802d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1482959801.536409133
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:16:41 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4166>
+Thread      : spliced 7f57f802d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1482959801.555695707
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:16:41 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4166>
+Thread      : spliced 7f57f802d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1482959801.556284009
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:16:41 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4166>
+Thread      : spliced 7f57f802d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482959801.557967707
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:16:41 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4166>
+Thread      : ddsi2 7f57f020d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482959801.570988843
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:16:41 CET 2016
+Description : The durability service can by identified by ID: 693165079
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4166>
+Thread      : durability 7f57f030e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1482959801.582240043
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:16:48 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4166>
+Thread      : durability 7f57f030e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482959808.589150344
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:20:43 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4554>
+Thread      : spliced 7fcc6c03b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1482960043.686440127
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:20:43 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4554>
+Thread      : spliced 7fcc6c03b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1482960043.704760745
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:20:43 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4554>
+Thread      : spliced 7fcc6c03b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1482960043.705384486
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:20:43 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4554>
+Thread      : spliced 7fcc6c03b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482960043.706343330
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:20:43 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4554>
+Thread      : ddsi2 7fcc649f6700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482960043.719703907
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:20:43 CET 2016
+Description : The durability service can by identified by ID: 242893447
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4554>
+Thread      : durability 7fcc64d65700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1482960043.730870607
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:20:50 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4554>
+Thread      : durability 7fcc64d65700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482960050.737694523
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:24:01 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4795>
+Thread      : spliced 7f2c1c1f9700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1482960241.710776629
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:24:01 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4795>
+Thread      : spliced 7f2c1c1f9700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1482960241.726782236
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:24:01 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4795>
+Thread      : spliced 7f2c1c1f9700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1482960241.727342991
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:24:01 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4795>
+Thread      : spliced 7f2c1c1f9700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482960241.728153774
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:24:01 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4795>
+Thread      : ddsi2 7f2c14787700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482960241.741554125
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:24:01 CET 2016
+Description : The durability service can by identified by ID: 442806801
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4795>
+Thread      : durability 7f2c14af6700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1482960241.753279568
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:24:08 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4795>
+Thread      : durability 7f2c14af6700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482960248.760276059
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:25:01 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4914>
+Thread      : spliced 7f5fec146700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1482960301.490609669
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:25:01 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4914>
+Thread      : spliced 7f5fec146700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1482960301.508390991
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:25:01 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4914>
+Thread      : spliced 7f5fec146700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1482960301.509041435
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:25:01 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4914>
+Thread      : spliced 7f5fec146700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482960301.509917938
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:25:01 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4914>
+Thread      : ddsi2 7f5fe4b09700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482960301.524882102
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:25:01 CET 2016
+Description : The durability service can by identified by ID: 316633920
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4914>
+Thread      : durability 7f5fe4e78700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1482960301.535691823
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:25:08 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4914>
+Thread      : durability 7f5fe4e78700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482960308.542956361
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:28:41 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5037>
+Thread      : spliced 7f04ec135700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1482960521.787608615
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:28:41 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5037>
+Thread      : spliced 7f04ec135700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1482960521.805845739
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:28:41 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5037>
+Thread      : spliced 7f04ec135700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1482960521.806506303
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:28:41 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5037>
+Thread      : spliced 7f04ec135700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482960521.807367277
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:28:41 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5037>
+Thread      : ddsi2 7f04de272700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482960521.823048852
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:28:41 CET 2016
+Description : The durability service can by identified by ID: 989436649
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5037>
+Thread      : durability 7f04de5e1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1482960521.834417369
+========================================================================================
+Report      : INFO
+Date        : Mi Dez 28 22:28:48 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5037>
+Thread      : durability 7f04de5e1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1482960528.841564451
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 12:54:03 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3057>
+Thread      : spliced 7fa9d40da700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483012443.693047731
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 12:54:03 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3057>
+Thread      : spliced 7fa9d40da700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483012443.740576699
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 12:54:03 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3057>
+Thread      : spliced 7fa9d40da700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483012443.741225463
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 12:54:03 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3057>
+Thread      : spliced 7fa9d40da700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483012443.742620085
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 12:54:03 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3057>
+Thread      : ddsi2 7fa9a3a20700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483012443.788614502
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 12:54:03 CET 2016
+Description : The durability service can by identified by ID: 822377948
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3057>
+Thread      : durability 7fa9a3da0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483012443.893609625
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 12:54:10 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3057>
+Thread      : durability 7fa9a3da0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483012450.900947451
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:09:50 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4733>
+Thread      : spliced 7f89ec071700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483013390.092388619
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:09:50 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4733>
+Thread      : spliced 7f89ec071700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483013390.110644998
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:09:50 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4733>
+Thread      : spliced 7f89ec071700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483013390.111191444
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:09:50 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4733>
+Thread      : spliced 7f89ec071700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483013390.112066822
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:09:50 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4733>
+Thread      : ddsi2 7f89df52e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483013390.128263796
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:09:50 CET 2016
+Description : The durability service can by identified by ID: 667440428
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4733>
+Thread      : durability 7f89df89d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483013390.139900647
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:09:57 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4733>
+Thread      : durability 7f89df89d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483013397.147195065
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:12:55 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5056>
+Thread      : spliced 7f0d7a751700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483013575.784570872
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:12:55 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5056>
+Thread      : spliced 7f0d7a751700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483013575.802712270
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:12:55 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5056>
+Thread      : spliced 7f0d7a751700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483013575.803415066
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:12:55 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5056>
+Thread      : spliced 7f0d7a751700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483013575.804308162
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:12:55 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5056>
+Thread      : ddsi2 7f0d708cd700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483013575.818756258
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:12:55 CET 2016
+Description : The durability service can by identified by ID: 1423519587
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5056>
+Thread      : durability 7f0d70c3c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483013575.829931949
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:13:02 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5056>
+Thread      : durability 7f0d70c3c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483013582.837500737
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:18:04 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5307>
+Thread      : spliced 7f51ac111700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483013884.753533226
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:18:04 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5307>
+Thread      : spliced 7f51ac111700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483013884.772693757
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:18:04 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5307>
+Thread      : spliced 7f51ac111700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483013884.773324580
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:18:04 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5307>
+Thread      : spliced 7f51ac111700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483013884.774277194
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:18:04 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5307>
+Thread      : ddsi2 7f519b7a3700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483013884.790940292
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:18:04 CET 2016
+Description : The durability service can by identified by ID: 357470753
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5307>
+Thread      : durability 7f519bb12700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483013884.802460603
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:18:11 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5307>
+Thread      : durability 7f519bb12700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483013891.809713777
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:19:29 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5459>
+Thread      : spliced 7f14bc0df700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483013969.049128285
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:19:29 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5459>
+Thread      : spliced 7f14bc0df700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483013969.065634634
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:19:29 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5459>
+Thread      : spliced 7f14bc0df700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483013969.066192157
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:19:29 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5459>
+Thread      : spliced 7f14bc0df700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483013969.067100125
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:19:29 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5459>
+Thread      : ddsi2 7f14b447d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483013969.081238938
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:19:29 CET 2016
+Description : The durability service can by identified by ID: 2060476647
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5459>
+Thread      : durability 7f14b47ec700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483013969.093164878
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:19:36 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5459>
+Thread      : durability 7f14b47ec700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483013976.100565958
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:20:10 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5521>
+Thread      : spliced 7fa694023700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483014010.239742494
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:20:10 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5521>
+Thread      : spliced 7fa694023700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483014010.256901478
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:20:10 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5521>
+Thread      : spliced 7fa694023700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483014010.257452917
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:20:10 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5521>
+Thread      : spliced 7fa694023700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483014010.258801994
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:20:10 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5521>
+Thread      : ddsi2 7fa68752e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483014010.273780041
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:20:10 CET 2016
+Description : The durability service can by identified by ID: 1062553804
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5521>
+Thread      : durability 7fa68789d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483014010.286079591
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:20:17 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5521>
+Thread      : durability 7fa68789d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483014017.293588301
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:20:37 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5581>
+Thread      : spliced 7fa6100ed700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483014037.418958022
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:20:37 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5581>
+Thread      : spliced 7fa6100ed700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483014037.438585369
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:20:37 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5581>
+Thread      : spliced 7fa6100ed700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483014037.439113543
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:20:37 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5581>
+Thread      : spliced 7fa6100ed700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483014037.439992099
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:20:37 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5581>
+Thread      : ddsi2 7fa6035af700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483014037.453997965
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:20:37 CET 2016
+Description : The durability service can by identified by ID: 230433829
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5581>
+Thread      : durability 7fa60391e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483014037.464263582
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 13:20:44 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <5581>
+Thread      : durability 7fa60391e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483014044.471550794
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:16:23 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <2605>
+Thread      : spliced 7f6aec137700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483024583.028270300
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:16:23 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <2605>
+Thread      : spliced 7f6aec137700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483024583.064080486
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:16:23 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <2605>
+Thread      : spliced 7f6aec137700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483024583.064664943
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:16:23 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <2605>
+Thread      : spliced 7f6aec137700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483024583.066395331
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:16:23 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <2605>
+Thread      : ddsi2 7f6ae4685700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483024583.113266862
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:16:23 CET 2016
+Description : The durability service can by identified by ID: 125852404
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <2605>
+Thread      : durability 7f6ae49f4700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483024583.218093961
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:16:30 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <2605>
+Thread      : durability 7f6ae49f4700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483024590.225157325
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:22:28 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3009>
+Thread      : spliced 7fe1c00bc700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483024948.509874504
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:22:28 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3009>
+Thread      : spliced 7fe1c00bc700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483024948.527139231
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:22:28 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3009>
+Thread      : spliced 7fe1c00bc700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483024948.527729651
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:22:28 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3009>
+Thread      : spliced 7fe1c00bc700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483024948.528590242
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:22:28 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3009>
+Thread      : ddsi2 7fe1b25d1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483024948.543966674
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:22:28 CET 2016
+Description : The durability service can by identified by ID: 1328213100
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3009>
+Thread      : durability 7fe1b2940700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483024948.555519651
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:22:35 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3009>
+Thread      : durability 7fe1b2940700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483024955.563193473
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:25:28 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3170>
+Thread      : spliced 7f27b8030700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483025128.105067309
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:25:28 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3170>
+Thread      : spliced 7f27b8030700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483025128.122747899
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:25:28 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3170>
+Thread      : spliced 7f27b8030700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483025128.123374569
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:25:28 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3170>
+Thread      : spliced 7f27b8030700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483025128.124709135
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:25:28 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3170>
+Thread      : ddsi2 7f27b0a26700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483025128.138532126
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:25:28 CET 2016
+Description : The durability service can by identified by ID: 84991319
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3170>
+Thread      : durability 7f27b0d95700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483025128.149770213
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:25:35 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3170>
+Thread      : durability 7f27b0d95700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483025135.156737433
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:33:56 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3619>
+Thread      : spliced 7f7a104f4700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483025636.998223804
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:33:57 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3619>
+Thread      : spliced 7f7a104f4700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483025637.016465957
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:33:57 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3619>
+Thread      : spliced 7f7a104f4700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483025637.017158698
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:33:57 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3619>
+Thread      : spliced 7f7a104f4700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483025637.018094080
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:33:57 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3619>
+Thread      : ddsi2 7f7a092bd700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483025637.033050946
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:33:57 CET 2016
+Description : The durability service can by identified by ID: 413274622
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3619>
+Thread      : durability 7f7a0962c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483025637.044197384
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:34:04 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3619>
+Thread      : durability 7f7a0962c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483025644.051385407
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:37:19 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3907>
+Thread      : spliced 7fefcc185700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483025839.638348584
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:37:19 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3907>
+Thread      : spliced 7fefcc185700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483025839.655535003
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:37:19 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3907>
+Thread      : spliced 7fefcc185700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483025839.656183883
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:37:19 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3907>
+Thread      : spliced 7fefcc185700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483025839.657673213
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:37:19 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3907>
+Thread      : ddsi2 7fefbb824700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483025839.670886694
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:37:19 CET 2016
+Description : The durability service can by identified by ID: 734411154
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3907>
+Thread      : durability 7fefbbb93700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483025839.682606276
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:37:26 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <3907>
+Thread      : durability 7fefbbb93700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483025846.689719181
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:39:06 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4054>
+Thread      : spliced 7efbf00de700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483025946.215780454
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:39:06 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4054>
+Thread      : spliced 7efbf00de700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483025946.235653438
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:39:06 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4054>
+Thread      : spliced 7efbf00de700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483025946.236239815
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:39:06 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4054>
+Thread      : spliced 7efbf00de700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483025946.237621517
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:39:06 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4054>
+Thread      : ddsi2 7efbe162c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483025946.251771519
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:39:06 CET 2016
+Description : The durability service can by identified by ID: 1455022547
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4054>
+Thread      : durability 7efbe83c2700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483025946.262605511
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:39:13 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4054>
+Thread      : durability 7efbe83c2700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483025953.269632210
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:45:41 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4578>
+Thread      : spliced 7f2bac1ea700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483026341.259687558
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:45:41 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4578>
+Thread      : spliced 7f2bac1ea700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483026341.277744022
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:45:41 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4578>
+Thread      : spliced 7f2bac1ea700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483026341.278317817
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:45:41 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4578>
+Thread      : spliced 7f2bac1ea700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483026341.279666305
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:45:41 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4578>
+Thread      : ddsi2 7f2b9e374700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483026341.293372702
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:45:41 CET 2016
+Description : The durability service can by identified by ID: 647523853
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4578>
+Thread      : durability 7f2b9e6e3700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483026341.304233592
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 16:45:48 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <4578>
+Thread      : durability 7f2b9e6e3700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483026348.313296556
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:15:55 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6498>
+Thread      : spliced 7fd5c8070700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483028155.129035866
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:15:55 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6498>
+Thread      : spliced 7fd5c8070700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483028155.148473809
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:15:55 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6498>
+Thread      : spliced 7fd5c8070700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483028155.149080624
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:15:55 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6498>
+Thread      : spliced 7fd5c8070700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483028155.150009206
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:15:55 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6498>
+Thread      : ddsi2 7fd5c0258700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483028155.164045148
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:15:55 CET 2016
+Description : The durability service can by identified by ID: 651818863
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6498>
+Thread      : durability 7fd5c05c7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483028155.175087099
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:20:56 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6750>
+Thread      : spliced 7fb5e8098700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483028456.224084933
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:20:56 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6750>
+Thread      : spliced 7fb5e8098700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483028456.242512954
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:20:56 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6750>
+Thread      : spliced 7fb5e8098700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483028456.243146964
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:20:56 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6750>
+Thread      : spliced 7fb5e8098700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483028456.244031487
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:20:56 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6750>
+Thread      : ddsi2 7fb5d93be700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483028456.257772007
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:20:56 CET 2016
+Description : The durability service can by identified by ID: 1053239816
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6750>
+Thread      : durability 7fb5e0137700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483028456.270947471
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:21:03 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6750>
+Thread      : durability 7fb5e0137700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483028463.278010906
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:22:24 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6878>
+Thread      : spliced 7f0340166700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483028544.413529813
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:22:24 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6878>
+Thread      : spliced 7f0340166700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483028544.431371395
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:22:24 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6878>
+Thread      : spliced 7f0340166700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483028544.432045565
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:22:24 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6878>
+Thread      : spliced 7f0340166700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483028544.433155307
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:22:24 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6878>
+Thread      : ddsi2 7f0338b1a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483028544.446229125
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:22:24 CET 2016
+Description : The durability service can by identified by ID: 1789966110
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6878>
+Thread      : durability 7f0338e89700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483028544.457243688
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:22:31 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <6878>
+Thread      : durability 7f0338e89700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483028551.464275543
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:26:25 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7124>
+Thread      : spliced 7f0b7406c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483028785.534009040
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:26:25 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7124>
+Thread      : spliced 7f0b7406c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483028785.551573070
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:26:25 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7124>
+Thread      : spliced 7f0b7406c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483028785.552299705
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:26:25 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7124>
+Thread      : spliced 7f0b7406c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483028785.553230862
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:26:25 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7124>
+Thread      : ddsi2 7f0b6e5d1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483028785.566990681
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:26:25 CET 2016
+Description : The durability service can by identified by ID: 1670284901
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7124>
+Thread      : durability 7f0b6e940700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483028785.578547853
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:26:32 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7124>
+Thread      : durability 7f0b6e940700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483028792.585494605
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:31:02 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7261>
+Thread      : spliced 7fc2b4158700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483029062.983702911
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:31:03 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7261>
+Thread      : spliced 7fc2b4158700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483029063.001249557
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:31:03 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7261>
+Thread      : spliced 7fc2b4158700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483029063.001953263
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:31:03 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7261>
+Thread      : spliced 7fc2b4158700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483029063.002795277
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:31:03 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7261>
+Thread      : ddsi2 7fc2af52e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483029063.016509388
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:31:03 CET 2016
+Description : The durability service can by identified by ID: 1039974106
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7261>
+Thread      : durability 7fc2af89d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483029063.027543720
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:31:10 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7261>
+Thread      : durability 7fc2af89d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483029070.034736295
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:32:45 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7329>
+Thread      : spliced 7ff814039700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483029165.043849621
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:32:45 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7329>
+Thread      : spliced 7ff814039700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483029165.061430517
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:32:45 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7329>
+Thread      : spliced 7ff814039700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483029165.062133474
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:32:45 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7329>
+Thread      : spliced 7ff814039700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483029165.063006188
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:32:45 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7329>
+Thread      : ddsi2 7ff806f21700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483029165.076049902
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:32:45 CET 2016
+Description : The durability service can by identified by ID: 10871127
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7329>
+Thread      : durability 7ff807290700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483029165.086939834
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:32:52 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7329>
+Thread      : durability 7ff807290700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483029172.094015735
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:40:02 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7638>
+Thread      : spliced 7fc97c160700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483029602.638615424
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:40:02 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7638>
+Thread      : spliced 7fc97c160700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483029602.656161028
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:40:02 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7638>
+Thread      : spliced 7fc97c160700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483029602.656786908
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:40:02 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7638>
+Thread      : spliced 7fc97c160700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483029602.658015725
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:40:02 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7638>
+Thread      : ddsi2 7fc96f423700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483029602.670806439
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:40:02 CET 2016
+Description : The durability service can by identified by ID: 490297055
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7638>
+Thread      : durability 7fc96f792700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483029602.681922502
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:40:09 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7638>
+Thread      : durability 7fc96f792700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483029609.689005394
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:41:21 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7739>
+Thread      : spliced 7f29dc07b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483029681.250549068
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:41:21 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7739>
+Thread      : spliced 7f29dc07b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483029681.268529881
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:41:21 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7739>
+Thread      : spliced 7f29dc07b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483029681.269274322
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:41:21 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7739>
+Thread      : spliced 7f29dc07b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483029681.270265184
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:41:21 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7739>
+Thread      : ddsi2 7f29d4258700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483029681.283439246
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:41:21 CET 2016
+Description : The durability service can by identified by ID: 415179932
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7739>
+Thread      : durability 7f29d45c7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483029681.294461943
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:41:28 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7739>
+Thread      : durability 7f29d45c7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483029688.301607660
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:49:52 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7987>
+Thread      : spliced 7f9ef40c2700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483030192.914745773
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:49:52 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7987>
+Thread      : spliced 7f9ef40c2700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483030192.932275479
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:49:52 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7987>
+Thread      : spliced 7f9ef40c2700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483030192.932882261
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:49:52 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7987>
+Thread      : spliced 7f9ef40c2700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483030192.934253179
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:49:52 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7987>
+Thread      : ddsi2 7f9eec3fc700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483030192.948050216
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:49:52 CET 2016
+Description : The durability service can by identified by ID: 87572494
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7987>
+Thread      : durability 7f9eec76b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483030192.959734798
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 17:49:59 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <7987>
+Thread      : durability 7f9eec76b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483030199.966968344
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 18:02:41 CET 2016
+Description : u_domainNew:Database allocated on heap
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <8107>
+Thread      : spliced 7fc0b40a3700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1483030961.454791444
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 18:02:41 CET 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <8107>
+Thread      : spliced 7fc0b40a3700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1483030961.472078077
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 18:02:41 CET 2016
+Description : Service cmsoap disabled
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <8107>
+Thread      : spliced 7fc0b40a3700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1483030961.472714778
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 18:02:41 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <8107>
+Thread      : spliced 7fc0b40a3700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483030961.473652921
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 18:02:41 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <8107>
+Thread      : ddsi2 7fc0a53be700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483030961.486884873
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 18:02:41 CET 2016
+Description : The durability service can by identified by ID: 727223119
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <8107>
+Thread      : durability 7fc0ac137700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1483030961.498520869
+========================================================================================
+Report      : INFO
+Date        : Do Dez 29 18:02:52 CET 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : krishna-HP-255-G2-Notebook-PC
+Process     : chatbox <8107>
+Thread      : durability 7fc0ac137700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1483030972.709574984
