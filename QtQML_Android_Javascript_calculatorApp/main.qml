@@ -13,6 +13,7 @@ Window {
     Item {
         id: stat
         property var temp: ""
+        property var fin: 0
     }
 
     Rectangle{
@@ -92,6 +93,11 @@ Window {
                                 MouseArea{
                                     anchors.fill: rect7
                                     onClicked: {
+                                        if(stat.fin == 1)
+                                        {
+                                            stat.fin = 0
+                                            stat.temp = ""
+                                        }
                                         stat.temp += "7"
                                         disp.text = stat.temp
                                     }
@@ -113,6 +119,11 @@ Window {
                                 MouseArea{
                                     anchors.fill: rect4
                                     onClicked: {
+                                        if(stat.fin == 1)
+                                        {
+                                            stat.fin = 0
+                                            stat.temp = ""
+                                        }
                                         stat.temp += "4"
                                         disp.text = stat.temp
                                     }
@@ -133,6 +144,11 @@ Window {
                                 MouseArea{
                                     anchors.fill: rect1
                                     onClicked: {
+                                        if(stat.fin == 1)
+                                        {
+                                            stat.fin = 0
+                                            stat.temp = ""
+                                        }
                                         stat.temp += "1"
                                         disp.text = stat.temp
                                     }
@@ -154,6 +170,11 @@ Window {
                                 MouseArea{
                                     anchors.fill: rectdot
                                     onClicked: {
+                                        if(stat.fin == 1)
+                                        {
+                                            stat.fin = 0
+                                            stat.temp = ""
+                                        }
                                         stat.temp += "."
                                         disp.text = stat.temp
                                     }
@@ -192,6 +213,11 @@ Window {
                                 MouseArea{
                                     anchors.fill: rect8
                                     onClicked: {
+                                        if(stat.fin == 1)
+                                        {
+                                            stat.fin = 0
+                                            stat.temp = ""
+                                        }
                                         stat.temp += "8"
                                         disp.text = stat.temp
                                     }
@@ -213,6 +239,11 @@ Window {
                                 MouseArea{
                                     anchors.fill: rect5
                                     onClicked: {
+                                        if(stat.fin == 1)
+                                        {
+                                            stat.fin = 0
+                                            stat.temp = ""
+                                        }
                                         stat.temp += "5"
                                         disp.text = stat.temp
                                     }
@@ -234,6 +265,11 @@ Window {
                                 MouseArea{
                                     anchors.fill: rect2
                                     onClicked: {
+                                        if(stat.fin == 1)
+                                        {
+                                            stat.fin = 0
+                                            stat.temp = ""
+                                        }
                                         stat.temp += "2"
                                         disp.text = stat.temp
                                     }
@@ -256,6 +292,11 @@ Window {
                                 MouseArea{
                                     anchors.fill: rect0
                                     onClicked: {
+                                        if(stat.fin == 1)
+                                        {
+                                            stat.fin = 0
+                                            stat.temp = ""
+                                        }
                                         stat.temp += "0"
                                         disp.text = stat.temp
                                     }
@@ -295,6 +336,11 @@ Window {
                                 MouseArea{
                                     anchors.fill: rect9
                                     onClicked: {
+                                        if(stat.fin == 1)
+                                        {
+                                            stat.fin = 0
+                                            stat.temp = ""
+                                        }
                                         stat.temp += "9"
                                         disp.text = stat.temp
                                     }
@@ -316,6 +362,11 @@ Window {
                                 MouseArea{
                                     anchors.fill: rect6
                                     onClicked: {
+                                        if(stat.fin == 1)
+                                        {
+                                            stat.fin = 0
+                                            stat.temp = ""
+                                        }
                                         stat.temp += "6"
                                         disp.text = stat.temp
                                     }
@@ -337,6 +388,11 @@ Window {
                                 MouseArea{
                                     anchors.fill: rect3
                                     onClicked: {
+                                        if(stat.fin == 1)
+                                        {
+                                            stat.fin = 0
+                                            stat.temp = ""
+                                        }
                                         stat.temp += "3"
                                         disp.text = stat.temp
                                     }
@@ -359,7 +415,8 @@ Window {
                                     anchors.fill: rectequal
                                     onClicked: {
                                         disp.text = eval(disp.text)
-                                        stat.temp = ""
+                                        stat.fin = 1
+                                        stat.temp = disp.text
                                     }
 
                                 }
@@ -397,6 +454,10 @@ Window {
 
                                 MouseArea{
                                     anchors.fill: rectdel
+                                    onPressAndHold: {
+                                        disp.text = ""
+                                        stat.temp = disp.text
+                                    }
                                     onClicked: {
                                         disp.text = disp.text.substring(0,disp.text.length-1)
                                         stat.temp = disp.text
@@ -417,8 +478,13 @@ Window {
                                 }
 
                                 MouseArea{
+
                                     anchors.fill: rectdiv
                                     onClicked: {
+                                        if(stat.fin == 1)
+                                        {
+                                            stat.fin = 0
+                                        }
                                         stat.temp += " / "
                                         disp.text = stat.temp
                                     }
@@ -440,6 +506,10 @@ Window {
                                 MouseArea{
                                     anchors.fill: rectmul
                                     onClicked: {
+                                        if(stat.fin == 1)
+                                        {
+                                            stat.fin = 0
+                                        }
                                         stat.temp += " * "
                                         disp.text = stat.temp
                                     }
@@ -461,6 +531,10 @@ Window {
                                 MouseArea{
                                     anchors.fill: rectmin
                                     onClicked: {
+                                        if(stat.fin == 1)
+                                        {
+                                            stat.fin = 0
+                                        }
                                         stat.temp += " - "
                                         disp.text = stat.temp
                                     }
@@ -482,6 +556,10 @@ Window {
                                 MouseArea{
                                     anchors.fill: rectplu
                                     onClicked: {
+                                        if(stat.fin == 1)
+                                        {
+                                            stat.fin = 0
+                                        }
                                         stat.temp += " + "
                                         disp.text = stat.temp
                                     }
